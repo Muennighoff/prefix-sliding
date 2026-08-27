@@ -10,11 +10,11 @@
 
 **Updates:**
 
-* 2026-08: We released [our paper](https://arxiv.org/abs/TODO) announced via [this tweet](https://x.com/Muennighoff/status/TODO).
+* 2026-08: We released [our paper](https://arxiv.org/abs/2608.26070) announced via [this tweet](https://x.com/Muennighoff/status/TODO).
 
 ****************************************************************
 
-This repository provides an overview of all resources for the paper ["Prefix Sliding for efficient test-time scaling"](https://arxiv.org/abs/TODO).
+This repository provides an overview of all resources for the paper ["Prefix Sliding for efficient test-time scaling"](https://arxiv.org/abs/2608.26070).
 
 - [Inference](#inference)
 - [Evaluation](#evaluation)
@@ -235,5 +235,13 @@ Figures are created via [this colab](https://colab.research.google.com/drive/1D1
 ### Citation
 
 ```bibtex
-TODO
+@misc{muennighoff2026prefixslidingefficienttesttime,
+      title={Prefix Sliding for efficient test-time scaling}, 
+      author={Niklas Muennighoff and Zhengyang Wang and Zeyi Chen and Weijia Shi and Binyuan Hui and John Yang and Dapeng Jiang and Mika Senghaas and Fares Obeid and Johannes Hagemann and Sami Jaghouar and Ludwig Schmidt and Percy Liang and Jason Wei and Andrew Y. Ng and Luke Zettlemoyer and Yejin Choi and Mike Lewis},
+      year={2026},
+      eprint={2608.26070},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2608.26070}, 
+}
 ```
