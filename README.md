@@ -10,7 +10,7 @@
 
 **Updates:**
 
-* 2026-08: We released [our paper](https://arxiv.org/abs/2608.26070) announced via [this tweet](https://x.com/Muennighoff/status/TODO).
+* 2026-08: We released [our paper](https://arxiv.org/abs/2608.26070) announced via [this tweet](https://x.com/Muennighoff/status/2092960068685692974).
 
 ****************************************************************
 
