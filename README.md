@@ -10,7 +10,8 @@
 
 **Updates:**
 
-* 2026-08: We released [our paper](https://arxiv.org/abs/2608.26070) announced via [this tweet](https://x.com/Muennighoff/status/2092960068685692974).
+* 2026-10: We released [a video](https://www.youtube.com/watch?v=CKdlVoMhHwU) on the paper & the idea of infinite test-time scaling
+* 2026-08: We released [our paper](https://arxiv.org/abs/2608.26070) announced via [this tweet](https://x.com/Muennighoff/status/2092960068685692974)
 
 ****************************************************************
 
